@@ -17,6 +17,7 @@ var bgm = [
 	"bgm_p/116e.swf",
 	"bgm_p/118c.swf",
 	"bgm_p/119t.swf",
+	"bgm_p/120m.swf",
 	"bgm_p/121h.swf",
 	"bgm_p/122e.swf",
 	"bgm_p/205c.swf",
@@ -28,6 +29,8 @@ var bgm = [
 	"bgm_p/219s.swf",
 	"bgm_p/226k.swf",
 	"bgm_p/227f.swf",
+	"bgm_p/228c.swf",
+	"bgm_p/229b.swf",
 	
 	//Event BGM theme
 	
@@ -48,8 +51,10 @@ var bgm = [
 	"swf/sound_b_bgm_19.swf?version=2.1.7",
 	"swf/sound_b_bgm_20.swf?version=2.1.9",
 	"swf/sound_b_bgm_29.swf?version=2.2.4",
+	"swf/sound_b_bgm_30.swf?version=2.2",
 	"swf/sound_b_bgm_37.swf",
 	"swf/sound_b_bgm_38.swf",
+	"swf/sound_b_bgm_39.swf",
 	"swf/sound_b_bgm_40.swf",
 	"swf/sound_b_bgm_44.swf",
 	"swf/sound_b_bgm_46.swf",
@@ -62,10 +67,15 @@ var bgm = [
 	"bgm_p/903y.swf",
 	"bgm_p/904w.swf",
 	"bgm_p/905w.swf",
+	"bgm_p/906y.swf",
 	"swf/sound_b_bgm_51.swf",
 	"swf/sound_b_bgm_52.swf",
 	"swf/sound_b_bgm_53.swf",
 	"swf/sound_b_bgm_54.swf",
 	"swf/sound_b_bgm_55.swf",
-	"swf/sound_b_bgm_56.swf"
+	"swf/sound_b_bgm_56.swf",
+	"swf/sound_b_bgm_57.swf",
+	"swf/sound_b_bgm_58.swf",
+	"swf/sound_b_bgm_59.swf",
+	"swf/sound_b_bgm_60.swf",
 	*/
